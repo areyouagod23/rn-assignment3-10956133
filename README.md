@@ -4,34 +4,34 @@ Task Manager App is a React Native application designed to help users monitor th
 
 ## Components
 
-### App
+### App 📱
 
 The central component responsible for rendering the entire application. It orchestrates the layout and functionality of the app.
 
-### CategoryItem
+### CategoryItem 🗂️
 
 Represents a single category, displaying its image, name, and the number of associated tasks.
 
-### TaskItem
+### TaskItem 📝
 
 Represents a single ongoing task, displaying its name.
 
-### Header
+### Header 🎩
 
 - **Greeting:** Displays a personalized greeting message.
 - **TaskCount:** Shows the number of tasks scheduled for the current day.
 - **ProfileImage:** Displays the user's profile image.
 
-### Search Section
+### Search Section 🔍
 
 - **SearchInput:** Enables users to search for specific tasks.
 - **FilterButton:** Provides functionality to filter tasks based on criteria.
 
-### Categories Container
+### Categories Container 📦
 
 - **CategoriesContainer:** Renders a horizontally scrollable list of category items.
 
-### Ongoing Tasks
+### Ongoing Tasks 🔄
 
 - **TaskList:** Displays a list of ongoing task items.
 
