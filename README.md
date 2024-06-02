@@ -37,4 +37,4 @@ Represents a single ongoing task, displaying its name.
 
 ## Screenshots
 
-![appp](https://github.com/areyouagod23/rn-assignment3-10956133/assets/screenshot.PNG)
+![appp](https://github.com/areyouagod23/rn-assignment3-10956133/wiki)
