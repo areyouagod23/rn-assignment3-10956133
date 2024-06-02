@@ -16,4 +16,4 @@ This is a React Native application that enables users to monitor their ongoing t
         TaskList: Renders a list of ongoing task items.
 
 This application aims to help users track their ongoing tasks and explore different task categories, providing a user-friendly interface with various features to enhance task management.
-![appp](https://github.com/Allaman-da/rn-assignment3-ID-11060523/assets/145779487/3c5059a9-5e04-44c9-a067-a93171fcc830)
+![appp](https://github.com/areyouagod23/rn-assignment3-10956133/assets/)
