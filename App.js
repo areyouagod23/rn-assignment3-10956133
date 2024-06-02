@@ -2,15 +2,14 @@ import React, { useState } from 'react';
 import { View, Text, ScrollView, TextInput, StyleSheet, Image, FlatList, TouchableOpacity, KeyboardAvoidingView, Platform } from 'react-native';
 
 const initialCategories = [
-  { id: '1', name: 'Exercise', tasks: 12, image: require('./assets/m.jpg') },
-  { id: '2', name: 'Study', tasks: 12, image: require('./assets/ei.jpg') },
-  { id: '3', name: 'Code', tasks: 10, image: require('./assets/code.jpg') },
-  { id: '5', name: 'Read', tasks: 5, image: require('./assets/Read.jpg') },
-  { id: '7', name: 'Relax', tasks: 6, image: require('./assets/reax.jpg') },
+  { id: '1', name: 'Exercise', tasks: 1, image: require('./assets/m.jpg') },
+  { id: '2', name: 'Study', tasks: 2, image: require('./assets/ei.jpg') },
+  { id: '3', name: 'Code', tasks: 3, image: require('./assets/code.jpg') },
+  { id: '5', name: 'Read', tasks: 4, image: require('./assets/Read.jpg') },
+  { id: '7', name: 'Relax', tasks: 5, image: require('./assets/reax.jpg') },
   { id: '7', name: 'Relax', tasks: 6, image: require('./assets/eat.jpg') },
-  { id: '7', name: 'Relax', tasks: 6, image: require('./assets/shop.jpg') },
-
-
+  { id: '7', name: 'Relax', tasks: 7, image: require('./assets/shop.jpg') },
+  { id: '7', name: 'Relax', tasks: 8, image: require('./assets/medi.jpg') },
 ];
 
 const initialOngoingTasks = [
